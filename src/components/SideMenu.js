@@ -9,13 +9,13 @@ function SideMenu() {
       <div className="main-nav">
         <NavLink to="/">Главная</NavLink>
         {/* <NavLink to="info">Расписание</NavLink> */}
-        <NavLink to="abitur">О факультете</NavLink>
-        <NavLink to="structur">Расписание</NavLink>
-        <NavLink to="eduprocess">Учебный процесс</NavLink>
+        <NavLink to="abitur">Лица</NavLink>
+        {/* <NavLink to="structur">Расписание</NavLink> */}
+        <NavLink to="eduprocess">Достижения</NavLink>
         <NavLink to="docs">Документы</NavLink>
         <NavLink to="projects">Проекты</NavLink>
-        <NavLink to="tech">Технологии</NavLink>
-        <NavLink to="educuality">Трудоустройство</NavLink>
+        {/* <NavLink to="tech">Технологии</NavLink> */}
+        {/* <NavLink to="educuality">Трудоустройство</NavLink> */}
         <NavLink to="contact">Контакты</NavLink>
       </div>
       <div className="socials-container">
