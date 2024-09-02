@@ -13,13 +13,13 @@ import "swiper/css/pagination";
 import main1 from "../img/home/1.jpg";
 import main2 from "../img/home/2.jpg";
 import main3 from "../img/home/3.jpg";
-import main4 from "../img/home/4.jpg";
-import main5 from "../img/home/5.jpg";
-import main6 from "../img/home/6.jpg";
-import main7 from "../img/home/7.jpg";
-import main8 from "../img/home/8.jpg";
+// import main4 from "../img/home/4.jpg";
+// import main5 from "../img/home/5.jpg";
+// import main6 from "../img/home/6.jpg";
+// import main7 from "../img/home/7.jpg";
+// import main8 from "../img/home/8.jpg";
 
-const images = [main1, main2, main3, main4, main5, main6, main7, main8];
+const images = [main1, main2, main3];
 
 export function Home() {
   return (
