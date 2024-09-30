@@ -1,7 +1,7 @@
-import React from "react";
+// import React from "react";
 
-export function Stubpage() {
-  return (
-    <div className="main-page main-container structur">В разработке ...</div>
-  );
-}
+// export function Stubpage() {
+//   return (
+//     <div className="main-page main-container structur">В разработке ...</div>
+//   );
+// }

@@ -8,5 +8,5 @@ export * from "./Info";
 export * from "./NotFound";
 export * from "./Projects";
 export * from "./Structur";
-export * from "./stubpage";
+// export * from "./stubpage";
 export * from "./Tech";

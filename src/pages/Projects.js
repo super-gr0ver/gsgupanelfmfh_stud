@@ -19,29 +19,29 @@
 
 // export function Projects() {
 //   return (
-//     <div className='main-page'>
-//       <Swiper
-//         modules={[Navigation, Pagination, Autoplay, A11y]}
-//         loop={true}
-//         slidesPerView={1}
-//         speed={1000}
-//         autoplay={{
-//           delay: 5000,
-//           disableOnInteraction: true,
-//         }}
-//         spaceBetween={30}
-//         navigation={true}
-//         pagination={{
-//           type: 'fraction',
-//         }}
-//       >
-//         {images.map((img, i) => (
-//           <SwiperSlide key={i}>
-//             <img src={img} alt={`project${i + 1}`} className='slide' />
-//           </SwiperSlide>
-//         ))}
-//       </Swiper>
-//     </div>
+// <div className='main-page'>
+//   <Swiper
+//     modules={[Navigation, Pagination, Autoplay, A11y]}
+//     loop={true}
+//     slidesPerView={1}
+//     speed={1000}
+//     autoplay={{
+//       delay: 5000,
+//       disableOnInteraction: true,
+//     }}
+//     spaceBetween={30}
+//     navigation={true}
+//     pagination={{
+//       type: 'fraction',
+//     }}
+//   >
+//     {images.map((img, i) => (
+//       <SwiperSlide key={i}>
+//         <img src={img} alt={`project${i + 1}`} className='slide' />
+//       </SwiperSlide>
+//     ))}
+//   </Swiper>
+// </div>
 //   );
 // }
 import React from "react";
