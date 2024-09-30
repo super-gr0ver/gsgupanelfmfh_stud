@@ -1,24 +1,35 @@
 {
   "files": {
     "main.css": "/gsgupanelfmfh_stud/static/css/main.49539a97.css",
-    "main.js": "/gsgupanelfmfh_stud/static/js/main.e7974ea3.js",
+    "main.js": "/gsgupanelfmfh_stud/static/js/main.024d5a22.js",
     "static/media/2.jpg": "/gsgupanelfmfh_stud/static/media/2.b1f980a4acf9e959da90.jpg",
-    "static/media/1.jpg": "/gsgupanelfmfh_stud/static/media/1.574e9eb11b4b5d4510f9.jpg",
+    "static/media/1.jpg": "/gsgupanelfmfh_stud/static/media/1.cebc492c4b2e2fe42b7d.jpg",
     "static/media/3.jpg": "/gsgupanelfmfh_stud/static/media/3.716005de86e6e496dbb8.jpg",
+    "static/media/11.JPG": "/gsgupanelfmfh_stud/static/media/11.ad528548343a15529a9a.JPG",
     "static/media/5.jpg": "/gsgupanelfmfh_stud/static/media/5.93657a9ed286581c888f.jpg",
     "static/media/6.jpg": "/gsgupanelfmfh_stud/static/media/6.b5ebe94a77ca5740e927.jpg",
     "static/media/4.jpg": "/gsgupanelfmfh_stud/static/media/4.b4c4cf3ba1b767d550fd.jpg",
     "static/media/7.jpg": "/gsgupanelfmfh_stud/static/media/7.d0239213f9442a1742a4.jpg",
+    "static/media/3.JPG": "/gsgupanelfmfh_stud/static/media/3.e1ab808332f8282728a6.JPG",
+    "static/media/7.JPG": "/gsgupanelfmfh_stud/static/media/7.51ecd773d4a1f0ba0a86.JPG",
+    "static/media/4.JPG": "/gsgupanelfmfh_stud/static/media/4.db39b4b1ad11651e6f74.JPG",
+    "static/media/9.JPG": "/gsgupanelfmfh_stud/static/media/9.4c39f8ed3983df9b7b4c.JPG",
+    "static/media/2.JPG": "/gsgupanelfmfh_stud/static/media/2.1b709800c9ca60075376.JPG",
+    "static/media/5.JPG": "/gsgupanelfmfh_stud/static/media/5.3a3505101d91fc0b0262.JPG",
     "static/media/8.jpg": "/gsgupanelfmfh_stud/static/media/8.e8500dcd86beb7c6846e.jpg",
+    "static/media/8.JPG": "/gsgupanelfmfh_stud/static/media/8.85f9cc3c08d96a8a96c0.JPG",
+    "static/media/6.JPG": "/gsgupanelfmfh_stud/static/media/6.cd50245ee6d5c226fabe.JPG",
+    "static/media/10.JPG": "/gsgupanelfmfh_stud/static/media/10.f9f47136c6bc778d4d50.JPG",
+    "static/media/1.JPG": "/gsgupanelfmfh_stud/static/media/1.5396e12d5875b56c1c6b.JPG",
     "static/media/gsgu-logo.png": "/gsgupanelfmfh_stud/static/media/gsgu-logo.6e5d161db0c24abdc164.png",
-    "static/media/qr-vk.svg": "/gsgupanelfmfh_stud/static/media/qr-vk.e840b4ca0e18e32160f5027d56c9f6c3.svg",
-    "static/media/qr-tg.svg": "/gsgupanelfmfh_stud/static/media/qr-tg.de362359674d2d570f085de0d5d3086b.svg",
+    "static/media/qr-vk.svg": "/gsgupanelfmfh_stud/static/media/qr-vk.4af2853e62b3271e0bd533704d7a1b5e.svg",
+    "static/media/qr-tg.svg": "/gsgupanelfmfh_stud/static/media/qr-tg.d052da6cabaabf334c70991bfd6bafbe.svg",
     "index.html": "/gsgupanelfmfh_stud/index.html",
     "main.49539a97.css.map": "/gsgupanelfmfh_stud/static/css/main.49539a97.css.map",
-    "main.e7974ea3.js.map": "/gsgupanelfmfh_stud/static/js/main.e7974ea3.js.map"
+    "main.024d5a22.js.map": "/gsgupanelfmfh_stud/static/js/main.024d5a22.js.map"
   },
   "entrypoints": [
     "static/css/main.49539a97.css",
-    "static/js/main.e7974ea3.js"
+    "static/js/main.024d5a22.js"
   ]
 }
